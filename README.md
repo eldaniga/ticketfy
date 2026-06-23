@@ -19,3 +19,12 @@ Ejecución de migraciones con Seeders: `sail artisan migrate --seed`
 5. **Ejecución en Local:**
    `sail up`
 # ticketfy
+
+
+# USUARIO DE PRUEBA
+user
+user1234
+
+# ADMIN DE PRUEBA
+admin
+admin1234
