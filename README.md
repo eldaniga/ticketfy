@@ -18,3 +18,4 @@ Ejecución de migraciones con Seeders: `sail artisan migrate --seed`
 
 5. **Ejecución en Local:**
    `sail up`
+# ticketfy
