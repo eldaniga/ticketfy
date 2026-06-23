@@ -1,0 +1,18 @@
+1 - Hay que utilizar sail
+2 - Esta creado un alias para evitar usar ./vendor/bin/sail -> sail
+
+3 - Se filtran por titulo y descripcion
+4 - Deberian de haber 31 elementos creados
+
+
+5 - Falta por implementar una modal para ver los datos claros de cada 
+ticket
+
+
+6 - Ejecutar 
+sail composer install 
+sail npm install
+
+
+para instalar los requerimientos
+//bg-white border-gray-200 text-gray-900'
